@@ -3,7 +3,7 @@ import React from "react";
 const Home = () => {
   return (
     <div>
-      <div className="card" style={{"width": "18rem"}}>
+      <div className="card mt-3" style={{"width": "18rem","maxHeight":"360px"}}>
         <img src="..." className="card-img-top" alt="..." />
         <div className="card-body">
           <p className="card-text">
